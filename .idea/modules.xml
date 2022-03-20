@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/geek-spring-one-28-2/geek-spring-one-28-2.iml" filepath="$PROJECT_DIR$/geek-spring-one-28-2/geek-spring-one-28-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geek-spring-one-28-2/lesson-01-servlet-api/lesson-01-servlet-api.iml" filepath="$PROJECT_DIR$/geek-spring-one-28-2/lesson-01-servlet-api/lesson-01-servlet-api.iml" />
+    </modules>
+  </component>
+</project>
