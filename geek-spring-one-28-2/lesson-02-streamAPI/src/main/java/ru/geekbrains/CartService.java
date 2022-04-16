@@ -12,7 +12,7 @@ import java.util.Map;
 public class CartService {
 
     @Autowired
-    private ProductRepository productRepository;
+    private ProductRepository productRepository; //Если даю имя pr, то выдает ошибку при создании новой корзины.
     private Map<Product, Integer> prCart;
 
     public CartService() {
