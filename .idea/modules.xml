@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/geek-spring-one-28-2/geek-spring-one-28-2.iml" filepath="$PROJECT_DIR$/geek-spring-one-28-2/geek-spring-one-28-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/geek-spring-one-28-2/lesson-01-servlet-api/lesson-01-servlet-api.iml" filepath="$PROJECT_DIR$/geek-spring-one-28-2/lesson-01-servlet-api/lesson-01-servlet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geek-spring-one-28-2/lesson-02-streamAPI/lesson-02-streamAPI.iml" filepath="$PROJECT_DIR$/geek-spring-one-28-2/lesson-02-streamAPI/lesson-02-streamAPI.iml" />
     </modules>
   </component>
 </project>

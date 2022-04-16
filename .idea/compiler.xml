@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lesson-01-servlet-api" />
+        <module name="lesson-02-streamAPI" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="geek-spring-one-28-2" target="11" />
       <module name="lesson-01-servlet-api" target="11" />
+      <module name="lesson-02-streamAPI" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
